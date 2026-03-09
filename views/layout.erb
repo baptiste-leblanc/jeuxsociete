@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title><%= @title || "Avis Jeux – Comparatif & Tests" %></title>
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <meta name="description" content="<%= @description || "Découvrez les meilleurs jeux de société." %>">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="<%= @title %>">
+  <meta property="og:description" content="<%= @description %>">
+  <% if @game %>
+    <meta property="og:image" content="<%= @game[:image] %>">
+  <% end %>
+
+  <% if @page_css %>
+    <link rel="stylesheet" href="/css/<%= @page_css %>.css">
+  <% end %>
+</head>
+<body>
+  <nav class="navbar nav-premium">
+    <div class="nav-container">
+      <a href="/" class="nav-logo">
+        <img src="/images/logo.png" alt="Avis Jeux - Logo" class="logo-img">
+      </a>
+      <div class="nav-links">
+        <%# <a href="/next_games">Prochains jeux</a> Pour l'instant en stand by%>
+        <a href="/top_selection">Top Sélections</a>
+        <a href="/prochains_tests">Prochains Jeux</a>
+        <a href="/affiliation">Affiliation Amazon</a>
+        <a href="/a_propos">A propos</a>
+        <%# <button id="theme-toggle" class="theme-btn" title="Changer de mode">
+          <span class="sun">☀️</span>
+          <span class="moon">🌙</span>
+        </button> %>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <%= yield %>
+  </main>
+
+</body>
+<script>
+  const navbar = document.querySelector(".navbar");
+
+  window.addEventListener("scroll", () => {
+    if (window.scrollY > 35) {
+      navbar.classList.add("scrolled");
+    } else {
+      navbar.classList.remove("scrolled");
+    }
+  });
+</script>
+
+<footer class="footer">
+  <div class="footer-container">
+
+    <div class="footer-text">
+      <div class="footer-links">
+        <a href="/mentions-legales">Mentions légales</a>
+        <a href="/politique-confidentialite">Politique de confidentialité</a>
+        <a href="/cookies">Cookies</a>
+        <a href="/affiliation">Affiliation Amazon</a>
+      </div>
+      <p>En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises.</p>
+      <p>© 2026 — Créé par <strong>Baptiste LEBLANC</strong></p>
+      <p>Le guide pour trouver votre prochaine pépite ludique.</p>
+    </div>
+
+  </div>
+</footer>
+
+</html>

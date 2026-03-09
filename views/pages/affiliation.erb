@@ -1,0 +1,55 @@
+<h1>Transparence & Affiliation</h1>
+
+<div class="legal-container">
+  <p>
+  Certains liens présents sur ce site sont des liens affiliés Amazon.
+  Cela signifie que si vous achetez un produit via ces liens,
+  nous pouvons percevoir une commission, sans aucun coût supplémentaire pour vous.
+  </p>
+
+  <h2>Pourquoi des liens affiliés ?</h2>
+  <p>
+  Ce site est indépendant et financé uniquement grâce à ces commissions.
+  Elles nous permettent de :
+  </p>
+
+  <ul>
+    <li>Maintenir le site en ligne</li>
+    <li>Créer du contenu détaillé et impartial</li>
+  </ul>
+
+  <h2>Indépendance éditoriale</h2>
+  <p>
+    Nos avis et recommandations ne sont jamais influencés par Amazon
+    ou par un éditeur de jeu.
+    Nous recommandons uniquement les jeux que nous estimons pertinents.
+  </p>
+
+  <h2>Programme Amazon</h2>
+  <p>
+    En tant que Partenaire Amazon, ce site réalise un bénéfice
+    sur les achats remplissant les conditions requises.
+  </p>
+
+  <p>
+  Merci pour votre soutien ❤️
+  </p>
+</div>
+
+<script>
+  const toggleBtn = document.getElementById('theme-toggle');
+  const htmlElement = document.documentElement;
+
+  const currentTheme = localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+  htmlElement.setAttribute('data-theme', currentTheme);
+
+  toggleBtn.addEventListener('click', () => {
+    let theme = htmlElement.getAttribute('data-theme');
+    let newTheme = theme === 'dark' ? 'light' : 'dark';
+
+    htmlElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  });
+</script>

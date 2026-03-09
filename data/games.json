@@ -1,0 +1,1151 @@
+[
+  {
+    "slug": "skyjo",
+    "name": "Skyjo",
+    "image": "/images/skyjo.jpg",
+    "short_presentation": "Un jeu de cartes simple, rapide et addictif.",
+    "description": "Skyjo est un jeu de cartes familial simple et addictif où le but est d'obtenir le score le plus bas possible en fin de partie. Chaque joueur dispose d'une grille de 12 cartes face cachée et doit, tour après tour, les échanger contre de nouvelles cartes piochées ou récupérées dans la défausse. Le sel du jeu vient de l'incertitude : on remplace des cartes inconnues en espérant tomber sur des valeurs faibles ou négatives, tout en essayant d'aligner trois chiffres identiques dans une colonne pour les éliminer.",
+    "review": {
+      "summary": "C'est le jeu intergénérationnel par excellence. Sa force réside dans sa simplicité immédiate et son aspect imprévisible qui crée des rebondissements constants. S'il repose beaucoup sur la chance au tirage, il offre tout de même un petit côté tactique gratifiant lorsqu'on décide de prendre un risque ou de presser la fin de manche pour piéger les autres. C'est un indispensable pour des moments conviviaux sans prise de tête, même si les joueurs en quête de contrôle total le trouveront parfois un peu trop soumis au hasard.",
+      "pos": [
+        "Règles expliquées en 2 minutes",
+        "Très bon jeu familial",
+        "Fonctionne bien à beaucoup de joueurs"
+      ],
+      "neg": [
+        "Hasard assez présent",
+        "Peu de contrôle stratégique"
+      ]
+    },
+    "for_who": [
+      "Familles",
+      "Joueurs occasionnels",
+      "Enfants dès 8 ans"
+    ],
+    "not_for_who": [
+      "Joueurs experts",
+      "Amateurs de jeux très stratégiques"
+    ],
+    "ideal_contexts": [
+      "Jeu d’apéro",
+      "Vacances",
+      "Soirée détendue"
+    ],
+    "min_players": 2,
+    "max_players": 8,
+    "duration": 30,
+    "age": 8,
+    "categories": ["Cartes", "Familial"],
+    "tags": ["rapide", "simple", "accessible"],
+    "buy_links": {
+      "amazon": "https://amzn.to/3Nk2cUH"
+    }
+  },
+
+  {
+    "slug": "7-wonders-duel",
+    "name": "7 Wonders Duel",
+    "image": "/images/7-wonders-duel.jpg",
+    "short_presentation": "Un jeu de civilisation stratégique intense conçu exclusivement pour deux joueurs.",
+    "description": "7 Wonders Duel est un jeu de civilisation magistral où deux cités s'affrontent à travers trois âges. Contrairement à beaucoup de jeux de gestion, vous ne piochez pas de cartes : elles sont disposées sur la table selon des structures précises (pyramides, murs), certaines face cachée et d'autres face visible, créant un système de draft ouvert très stratégique. Vous devez bâtir des bâtiments, développer votre science et ériger des Merveilles pour l'emporter.",
+    "review": {
+      "summary": "C'est sans doute l'un des meilleurs jeux pour deux joueurs jamais créés. Son génie vient de ses trois fins possibles : la victoire civile (aux points), mais surtout les victoires immédiates par la suprématie militaire ou scientifique. Cette menace permanente crée une tension incroyable, car vous ne pouvez jamais ignorer l'avancée adverse sous peine de défaite instantanée. C'est riche, complexe et superbement équilibré, bien que la courbe d'apprentissage soit plus raide que pour les jeux précédents.",
+      "pos": [
+        "Excellente profondeur stratégique",
+        "Trois conditions de victoire distinctes",
+        "Très forte interaction entre les joueurs",
+        "Draft ingénieux et renouvelable",
+        "Rejouabilité élevée",
+        "Jouable avec deux extensions"
+      ],
+      "neg": [
+        "Peut être exigeant pour les joueurs occasionnels",
+        "Interaction parfois frontale et punitive",
+        "Moins accessible que le 7 Wonders classique"
+      ]
+    },
+    "for_who": [
+      "Couples / Duo",
+      "Joueurs réguliers",
+      "Amateurs de jeux de stratégie",
+      "Fans de duels tactiques"
+    ],
+    "not_for_who": [
+      "Joueurs cherchant un jeu léger ou très relax",
+      "Groupes de plus de deux joueurs",
+      "Enfants ou débutants sans accompagnement"
+    ],
+    "ideal_contexts": [
+      "Soirée à deux",
+      "Duel stratégique",
+      "Envie d’un jeu intense mais relativement court"
+    ],
+    "min_players": 1,
+    "max_players": 2,
+    "duration": 30,
+    "age": 10,
+    "categories": ["Stratégie", "Civilisation", "Jeux à deux"],
+    "tags": ["stratégique", "tendu", "jeux à deux", "expert", "rejouable"],
+    "buy_links": {
+      "amazon": "https://amzn.to/40hfILM"
+    }
+  },
+
+  {
+    "slug": "splendor-duel",
+    "name": "Splendor Duel",
+    "image": "/images/splendor-duel.jpg",
+    "short_presentation": "La version intense et stratégique de Splendor à deux joueurs.",
+    "description": "Splendor Duel est un jeu de stratégie intense pour deux joueurs où vous incarnez des joailliers rivaux en quête de prestige. En puisant des gemmes et des perles rares sur un plateau commun, vous bâtissez un empire de cartes précieuses offrant des bonus, des capacités spéciales comme le vol de jetons, et des points de victoire. La tension est permanente, car la partie peut basculer à tout moment selon trois conditions de victoire : accumuler 20 points au total, 10 points dans une seule couleur ou 10 symboles couronne.",
+    "review": {
+      "summary": "Splendor Duel est une pépite d'efficacité qui transforme la collection de ressources en un face-à-face tendu et hautement tactique. Sa grande force réside dans ses trois conditions de victoire, qui obligent à une vigilance constante et éliminent toute sensation de répétition. L'interaction est réelle et parfois cruelle : on ne se contente pas de bâtir son jeu, on brise activement celui de l'adversaire via le plateau commun ou le vol de jetons. C'est un indispensable pour deux joueurs, offrant une profondeur stratégique impressionnante dans un format assez court, même si son côté punitif pourra agacer les joueurs les plus pacifiques.",
+      "pos": [
+        "Excellente tension",
+        "Plus profond que Splendor classique",
+        "Très rejouable"
+      ],
+      "neg": [
+        "Uniquement à deux",
+        "Peut sembler calculatoire"
+      ]
+    },
+    "for_who": [
+      "Fans de Splendor",
+      "Couples",
+      "Joueurs stratégiques"
+    ],
+    "not_for_who": [
+      "Grandes tablées",
+      "Joueurs recherchant du hasard"
+    ],
+    "ideal_contexts": [
+      "Soirée à deux",
+      "Affrontement tactique"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 30,
+    "age": 10,
+    "categories": ["Jeux à deux", "Stratégie"],
+    "tags": ["optimisation", "tactique", "à deux"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4cs3lnp"
+    }
+  },
+
+  {
+    "slug": "the-mind",
+    "name": "The Mind",
+    "image": "/images/the-mind.jpg",
+    "short_presentation": "Un jeu coopératif surprenant basé sur la communication non verbale.",
+    "description": "The Mind est une expérience ludique unique et minimaliste où les joueurs doivent coopérer pour poser des cartes numérotées de 1 à 100 en ordre croissant... sans s'échanger un seul mot ou signe. Pour réussir les différents niveaux, l'équipe ne dispose d'aucun outil, si ce n'est la perception du temps et une forme de connexion intuitive : chaque joueur doit ressentir le moment opportun pour poser sa carte selon sa valeur.",
+    "review": {
+      "summary": "C'est un jeu qui divise, mais qui ne laisse personne indifférent. Ce n'est pas tant un jeu de cartes qu'une expérience psychologique fascinante sur la synchronisation humaine. La tension est palpable et les moments de réussite collective procurent une euphorie incroyable. Si certains pourront lui reprocher son aspect hasardeux ou l'absence d'actions concrètes, sa force est de transformer le silence en un mécanisme de jeu ultra-prenant. C'est brillant de simplicité et idéal pour tester votre complicité avec vos amis.",
+      "pos": [
+        "Concept unique",
+        "Règles ultra simples",
+        "Très fort sentiment de groupe",
+        "Émotions intenses"
+      ],
+      "neg": [
+        "Très dépendant du groupe",
+        "Rejouabilité variable",
+        "Peu stratégique"
+      ]
+    },
+    "for_who": [
+      "Groupes d’amis",
+      "Familles",
+      "Amateurs d’expériences originales"
+    ],
+    "not_for_who": [
+      "Joueurs cherchant un jeu très stratégique"
+    ],
+    "ideal_contexts": [
+      "Début de soirée",
+      "Jeu d’ambiance",
+      "Moments conviviaux"
+    ],
+    "min_players": 2,
+    "max_players": 4,
+    "duration": 20,
+    "age": 8,
+    "categories": ["Coopératif", "Ambiance"],
+    "tags": ["coopératif", "original", "intuitif"],
+    "buy_links": {
+      "amazon": "https://amzn.to/3P1ttM7"
+    }
+  },
+
+  {
+    "slug": "6-qui-prend",
+    "name": "6 qui prend !",
+    "image": "/images/6-qui-prend.jpg",
+    "short_presentation": "Un jeu de cartes malin et cruel sous ses airs innocents.",
+    "description": "6 qui prend ! est un grand classique du jeu de cartes où le but est d'accumuler le moins de têtes de bœuf possible. Chaque joueur choisit simultanément une carte de sa main et la révèle ; elles sont ensuite placées sur l'une des quatre rangées de la table selon leur valeur. Le piège ? Celui qui doit poser la sixième carte d'une rangée doit ramasser les cinq précédentes, récoltant ainsi tous leurs points de pénalité.",
+    "review": {
+      "summary": "C'est le roi des jeux de vache : simple, chaotique et terriblement efficace. À peu de joueurs, il est très tactique et calculatoire, mais plus on est nombreux (jusqu'à 10), plus il devient un pur moment de rigolade et de trahison. On jubile de voir un adversaire forcé de ramasser une ligne pleine alors qu'on pensait être celui qui allait perdre. C'est un incontournable absolu pour l'apéro, qui combine un suspense constant avec des règles apprises en deux minutes.",
+      "pos": [
+        "Règles très simples",
+        "Fonctionne à beaucoup de joueurs",
+        "Interaction forte",
+        "Très fun"
+      ],
+      "neg": [
+        "Peu de contrôle",
+        "Peut frustrer certains joueurs"
+      ]
+    },
+    "for_who": [
+      "Familles",
+      "Groupes d’amis",
+      "Joueurs occasionnels"
+    ],
+    "not_for_who": [
+      "Joueurs cherchant un contrôle total"
+    ],
+    "ideal_contexts": [
+      "Jeu d’apéro",
+      "Soirée animée",
+      "Grand groupe"
+    ],
+    "min_players": 2,
+    "max_players": 10,
+    "duration": 30,
+    "age": 8,
+    "categories": ["Cartes", "Familial", "Ambiance"],
+    "tags": ["rapide", "méchant", "classique"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4bbikzW"
+    }
+  },
+
+  {
+    "slug": "traitres-a-bord",
+    "name": "Traîtres à bord",
+    "image": "/images/traitres-a-bord.jpg",
+    "short_presentation": "Un jeu de bluff et de déduction où personne n’est vraiment digne de confiance.",
+    "description": "Traîtres à bord est un jeu de rôles cachés et de déduction sociale où l'équipage d'un navire tente de remplir un coffre au trésor pendant que des mutins cherchent discrètement à saboter l'expédition. Le jeu se déroule en une succession de poses de cartes Butin (pour l'or) ou Action (pour mutiner ou enquêter), le tout saupoudré de discussions animées pour démasquer les menteurs avant que le navire ne sombre dans le chaos.",
+    "review": {
+      "summary": "C'est une excellente alternative à Loup-Garou, plus moderne et surtout plus dynamique, car personne n'est éliminé en cours de route. La force du jeu réside dans sa vitesse et sa capacité à créer une paranoïa immédiate : on doute de chaque pièce d'or posée. S'il nécessite un groupe un peu investi pour que le bluff prenne tout son sens, il reste très accessible grâce à des visuels clairs et des parties courtes. C'est le jeu parfait pour briser la glace ou animer une soirée entre amis.",
+      "pos": [
+        "Très accessible",
+        "Forte interaction entre joueurs",
+        "Beaucoup de discussions et de bluff",
+        "Idéal pour mettre de l’ambiance"
+      ],
+      "neg": [
+        "Dépend fortement du groupe",
+        "Peu de contrôle stratégique",
+        "Moins intéressant à petit nombre"
+      ]
+    },
+    "for_who": [
+      "Groupes d’amis",
+      "Joueurs aimant le bluff",
+      "Soirées animées"
+    ],
+    "not_for_who": [
+      "Joueurs cherchant un jeu calme",
+      "Amateurs de stratégie pure",
+      "Groupes très compétitifs"
+    ],
+    "ideal_contexts": [
+      "Soirée entre amis",
+      "Jeu d’ambiance",
+      "Apéro"
+    ],
+    "min_players": 3,
+    "max_players": 8,
+    "duration": 20,
+    "age": 10,
+    "categories": ["Ambiance", "Bluff"],
+    "tags": ["interaction", "bluff", "discussion", "rapide"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4svozFO"
+    }
+  },
+
+  {
+    "slug": "galerapagos",
+    "name": "Galérapagos",
+    "image": "/images/galerapagos.jpg",
+    "short_presentation": "Un jeu coopératif… jusqu’à ce que la survie pousse à la trahison.",
+    "description": "Galérapagos est un jeu de coopération forcée où des naufragés tentent de construire un radeau pour quitter une île avant qu'un ouragan ne les dévaste. Les joueurs doivent s'organiser pour récolter de l'eau, de la nourriture et du bois, mais les ressources viennent vite à manquer. Dès qu'une pénurie survient, la solidarité s'arrête : les naufragés votent pour éliminer l'un d'entre eux, transformant l'aventure en un jeu de survie cruel.",
+    "review": {
+      "summary": "C'est un jeu délicieusement cynique qui révèle la vraie nature de vos amis. Le passage brutal de l'entraide à la trahison pure lors des votes est le cœur du plaisir (ou de la frustration). Le matériel, notamment le petit sac de billes pour la pêche, ajoute un côté tactile sympa. C'est idéal pour ceux qui aiment l'interaction forte et les discussions de mauvaise foi, même s'il peut être un peu répétitif si les joueurs ne jouent pas le jeu du bluff et de la négociation.",
+      "pos": [
+        "Tension permanente",
+        "Interactions fortes",
+        "Moments mémorables et discussions animées",
+        "Facile à expliquer"
+      ],
+      "neg": [
+        "Peut frustrer les joueurs éliminés",
+        "Dépend beaucoup de l’ambiance de table",
+        "Peu de profondeur stratégique"
+      ]
+    },
+    "for_who": [
+      "Groupes d’amis",
+      "Joueurs aimant les jeux interactifs",
+      "Soirées décontractées"
+    ],
+    "not_for_who": [
+      "Joueurs sensibles à l’élimination",
+      "Public très familial",
+      "Amateurs de coopération pure"
+    ],
+    "ideal_contexts": [
+      "Soirée entre amis",
+      "Jeu d’ambiance",
+      "Moments fun et chaotiques"
+    ],
+    "min_players": 3,
+    "max_players": 12,
+    "duration": 30,
+    "age": 10,
+    "categories": ["Ambiance", "Semi-coopératif"],
+    "tags": ["survie", "trahison", "interaction", "tension"],
+    "buy_links": {
+      "amazon": "https://amzn.to/3OIlDXR"
+    }
+  },
+
+  {
+    "slug": "symbiose",
+    "name": "Symbiose",
+    "image": "/images/symbiose.jpg",
+    "short_presentation": "Un jeu de cartes tactique et élégant basé sur l’équilibre et l’optimisation.",
+    "description": "Symbiose est un jeu de cartes coopératif et évolutif où vous créez votre propre mare en choisissant les insectes, poissons ou encore batraciens qui la composeront. Le cœur du jeu repose sur la pose de cartes aux effets interconnectés : chaque carte jouée influence ses voisins, créant des réactions en chaîne nécessaires pour faire le plus de points possible avant la fin de la partie. ",
+    "review": {
+      "summary": "C'est un jeu d'une grande élégance visuelle, calme et qui je trouve vous fait passer un moment paisible. Bien qu'il puisse paraître complexe lors des premières manipulations de cartes, il faut savoir anticiper avec quoi vos voisins vont faire des points afin de définir votre stratégie. C'est un excellent choix pour les joueurs qui cherchent une expérience zen mais exigeante, où la victoire dépend d'une observation en même temps sur vos voisins mais aussi sur la mare centrale. Ce jeu est très bien que ce soit à deux comme à quatre.",
+      "pos": [
+        "Mécaniques élégantes",
+        "Parties rapides et fluides",
+        "Peu de hasard",
+        "Très bon en duel ou petit groupe"
+      ],
+      "neg": [
+        "Interaction limitée",
+        "Peu d’ambiance",
+        "Moins marquant en grand groupe"
+      ]
+    },
+    "for_who": [
+      "Joueurs aimant l’optimisation",
+      "Couples",
+      "Joueurs occasionnels réfléchis"
+    ],
+    "not_for_who": [
+      "Amateurs de jeux très interactifs",
+      "Groupes nombreux",
+      "Recherche d’un jeu d’ambiance"
+    ],
+    "ideal_contexts": [
+      "Jeu calme",
+      "Moment détente",
+      "Partie à deux ou trois"
+    ],
+    "min_players": 2,
+    "max_players": 4,
+    "duration": 25,
+    "age": 8,
+    "categories": ["Cartes", "Réflexion","Jeux à deux"],
+    "tags": ["optimisation", "calme", "tactique", "rapide"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4lbzqlB"
+    }
+  },
+
+  {
+    "slug": "odin",
+    "name": "Odin",
+    "image": "/images/odin.jpg",
+    "short_presentation": "Un jeu de cartes malin où il faut se débarrasser de ses cartes en combinant intelligemment.",
+    "description": "Odin est un jeu de défausse dynamique où le but est de vider sa main le plus vite possible en posant des combinaisons de cartes (chiffres et couleurs). Pour battre la mise précédente, tu dois poser soit une carte plus forte, soit une combinaison de cartes plus nombreuse ; la subtilité étant que tu récupères toujours une des cartes du pli précédent dans ta main, ce qui te permet de préparer tes futurs combos.",
+    "review": {
+      "summary": "C'est un excellent jeu de vidage de main qui modernise le genre. La mécanique de récupération est géniale : elle transforme ce qui semble être une pénalité (reprendre une carte) en un outil stratégique pour bâtir une main imbattable. C'est rapide, les retournements de situation sont fréquents et c'est beaucoup plus malin qu'un simple Uno. C'est le petit jeu de poche parfait : simple à sortir, mais avec une vraie courbe de progression tactique.",
+      "pos": [
+        "Règles très accessibles",
+        "Parties rapides",
+        "Bonne tension à 3-4 joueurs"
+      ],
+      "neg": [
+        "Peut sembler répétitif",
+        "Moins intéressant à 2 joueurs"
+      ]
+    },
+    "for_who": [
+      "Joueurs occasionnels",
+      "Familles",
+      "Groupes recherchant un jeu rapide"
+    ],
+    "not_for_who": [
+      "Amateurs de jeux experts",
+      "Joueurs cherchant une forte narration"
+    ],
+    "ideal_contexts": [
+      "Début de soirée",
+      "Pause entre deux jeux",
+      "Vacances"
+    ],
+    "min_players": 2,
+    "max_players": 6,
+    "duration": 20,
+    "age": 7,
+    "categories": ["Cartes", "Familial"],
+    "tags": ["rapide", "malin", "accessible"],
+    "buy_links": {
+      "amazon": "https://amzn.to/3PigDsV"
+    }
+  },
+
+  {
+    "slug": "boreal",
+    "name": "Boréal",
+    "image": "/images/boreal.jpg",
+    "short_presentation": "Un duel tactique dans un monde glacé en reconstruction.",
+    "description": "Boréal est un jeu de collection et de construction de tableau pour deux joueurs où vous explorez un monde post-humain pour rebâtir une bibliothèque de connaissances. À chaque tour, vous recrutez des cartes depuis une pyramide commune en payant leur coût avec des jetons, puis vous les disposez dans votre propre pyramide de dix cartes : la base doit être solide pour supporter les cartes des étages supérieurs.",
+    "review": {
+      "summary": "C’est un bijou de design et de tension. La gestion de la rivière de cartes est cruelle : chaque carte que vous prenez débloque potentiellement une pépite pour votre adversaire. Le système de pyramide inversée est très malin car il vous oblige à anticiper vos ressources trois coups à l'avance sous peine de vous retrouver bloqué avec des cartes injouables. C'est tactique, visuellement sublime, et très satisfaisant pour les amateurs d'optimisation.",
+      "pos": [
+        "Idéal en duel",
+        "Beaucoup de profondeur",
+        "Direction artistique réussie"
+      ],
+      "neg": [
+        "Exclusivement 2 joueurs",
+        "Demande plusieurs parties pour être maîtrisé"
+      ]
+    },
+    "for_who": [
+      "Couples",
+      "Amateurs de duels",
+      "Joueurs stratégiques"
+    ],
+    "not_for_who": [
+      "Grandes tablées",
+      "Amateurs de jeux rapides et légers"
+    ],
+    "ideal_contexts": [
+      "Soirée à deux",
+      "Session stratégique"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 45,
+    "age": 10,
+    "categories": ["Stratégie", "Jeux à deux"],
+    "tags": ["tactique", "profond", "à deux"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4srs2Fi"
+    }
+  },
+
+  {
+    "slug": "crack-list",
+    "name": "Crack List",
+    "image": "/images/crack-list.jpg",
+    "short_presentation": "Le jeu où ta culture générale se fracasse contre la mauvaise foi de tes potes.",
+    "description": "Crack List est la rencontre improbable mais géniale entre le Petit Bac et le Uno. Le but est de se débarrasser de ses cartes Lettre en trouvant des mots qui commencent par ces lettres et qui correspondent à une catégorie imposée (ex: Choses que l'on trouve dans une cuisine). Comme dans un jeu de défausse classique, des cartes spéciales (Inversion, Stop, Crack List) viennent pimenter la partie pour bloquer vos adversaires.",
+    "review": {
+      "summary": "C'est un party game redoutable d'efficacité . Il réussit à rendre le jeu de culture générale accessible à tous, car même si on n'a pas un immense vocabulaire, on peut gagner grâce aux cartes d'action. Les débats sur la validité de certains mots (Mais si, ça existe un fruit en Z !) garantissent une ambiance électrique. C'est simple, souvent de mauvaise foi, et on ne voit pas le temps passer.",
+      "pos": [
+      "Très fun en groupe",
+      "Accessible immédiatement"
+      ],
+      "neg": [
+        "Dépend du groupe",
+        "Peut devenir bruyant"
+      ]
+    },
+    "for_who": [
+      "Grandes tablées",
+      "Soirées entre amis"
+    ],
+    "not_for_who": [
+      "Joueurs cherchant du calme"
+    ],
+    "ideal_contexts": [
+      "Soirée festive",
+      "Apéro"
+    ],
+    "min_players": 2,
+    "max_players": 8,
+    "duration": 20,
+    "age": 10,
+    "categories": ["Ambiance", "Party Game"],
+    "tags": ["rapide", "fun", "interaction"],
+    "buy_links": {
+      "amazon": "https://amzn.to/3Phbi58"
+    }
+  },
+
+  {
+    "slug": "cascadia",
+    "name": "Cascadia",
+    "image": "/images/cascadia.jpg",
+    "short_presentation": "Un jeu zen de construction d’écosystème.",
+    "description": "Cascadia est un jeu de puzzle et de placement où vous créez votre propre écosystème sauvage. À chaque tour, vous choisissez un duo indissociable composé d'une tuile Habitat et d'un jeton Animal. Vous devez agrandir vos paysages (forêts, montagnes, rivières) tout en plaçant judicieusement les animaux pour respecter leurs schémas de vie spécifiques (les ours vivent en duos, les saumons en lignes, les buses isolées, etc.).",
+    "review": {
+      "summary": "C'est un chef-d'œuvre de sérénité et d'intelligence. Le jeu réussit le pari d'être extrêmement simple à comprendre tout en offrant une profondeur de réflexion immense. La double contrainte (optimiser les zones de terrain ET les groupes d'animaux) crée des dilemmes permanents mais jamais frustrants. C'est le jeu feel-good par excellence, avec un matériel de qualité qui rend chaque partie visuellement gratifiante.",
+      "pos": [
+        "Très fluide",
+        "Relaxant",
+        "Accessible mais stratégique"
+      ],
+      "neg": [
+        "Interaction limitée"
+      ]
+    },
+    "for_who": [
+      "Familles",
+      "Joueurs stratégiques modérés"
+    ],
+    "not_for_who": [
+      "Amateurs de confrontation directe"
+    ],
+    "ideal_contexts": ["Soirée calme", "Moment détente"],
+    "min_players": 1,
+    "max_players": 4,
+    "duration": 45,
+    "age": 10,
+    "categories": ["Familial", "Stratégie"],
+    "tags": ["zen", "placement", "réflexion"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4rSrb0k"
+    }
+  },
+
+  {
+    "slug": "solstis",
+    "name": "Solstis",
+    "image": "/images/solstis.jpg",
+    "short_presentation": "Un duel stratégique et poétique au cœur des saisons.",
+    "description": "Solstis est un jeu de tuiles pour deux joueurs où vous explorez une montagne mystérieuse pour réunir des esprits de la forêt. Le mécanisme est simple : vous jouez une tuile de votre main pour en capturer une identique au centre de la table. Si les deux tuiles forment un carré, vous gagnez un Esprit bonus. Le but est de créer le plus long chemin continu sur votre plateau personnel tout en collectant des symboles et des bonus de paysage.",
+    "review": {
+      "summary": "C'est une petite merveille de fluidité et de rapidité. Il reprend le principe ancestral du Hanafuda (jeu de cartes traditionnel japonais) et le modernise avec un système de pose de tuiles très visuel. C'est un jeu de tir à la corde permanent : on veut la tuile qui complète notre chemin, mais on surveille surtout celle qui donnerait un énorme bonus à l'adversaire. Les illustrations sont oniriques et le format est idéal pour une partie express mais riche en décisions.",
+      "pos": [
+        "Parfait en duel",
+        "Direction artistique réussie",
+        "Parties rapides"
+      ],
+      "neg": [
+        "Uniquement à deux joueurs",
+        "Peu d’interaction directe"
+      ]
+    },
+    "for_who": [
+      "Couples",
+      "Amateurs de duels",
+      "Joueurs stratégiques"
+    ],
+    "not_for_who": [
+      "Grandes tablées",
+      "Amateurs de party games"
+    ],
+    "ideal_contexts": [
+      "Soirée à deux",
+      "Session stratégique rapide"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 20,
+    "age": 8,
+    "categories": ["Jeux à deux", "Stratégie"],
+    "tags": ["tactique", "rapide", "à deux"],
+    "buy_links": {
+      "amazon": "https://amzn.to/40MMPXY"
+    }
+  },
+
+  {
+    "slug": "sky-team",
+    "name": "Sky Team",
+    "image": "/images/sky-team.jpg",
+    "short_presentation": "Un jeu coopératif intense où vous pilotez un avion à deux.",
+    "description": "Sky Team est un jeu coopératif exclusivement pour deux joueurs où vous incarnez un pilote et un copilote aux commandes d'un avion de ligne. Votre mission : poser l'appareil sans encombre sur différents aéroports du monde. Le hic ? Vous placez vos dés en silence pour gérer la vitesse, les volets, les trains d'atterrissage, la radio et l'assiette de l'avion. Si l'un de vous rate sa manoeuvre ou que vous percutez un autre avion, c'est le crash immédiat.",
+    "review": {
+      "summary": "C'est une claque ludique. Réussir à simuler la tension d'un cockpit avec seulement quelques dés et un plateau de bord est un tour de force. Le jeu est extrêmement immersif et gratifiant : chaque atterrissage réussi procure un véritable soulagement collectif. Les scénarios (glace, vent, trafic dense) renouvellent sans cesse le défi, faisant de chaque partie une expérience unique et tactique où la complicité avec votre partenaire est mise à rude épreuve.",
+      "pos": [
+        "Immersion forte",
+        "Très coopératif",
+        "Rejouable avec différents scénarios"
+      ],
+      "neg": [
+        "Exclusivement à deux",
+        "Demande concentration"
+      ]
+    },
+    "for_who": [
+      "Couples",
+      "Amateurs de coopération",
+      "Joueurs cherchant un défi"
+    ],
+    "not_for_who": [
+      "Groupes nombreux",
+      "Jeux rapides et légers"
+    ],
+    "ideal_contexts": [
+      "Soirée à deux",
+      "Session immersive"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 20,
+    "age": 10,
+    "categories": ["Coopératif", "Jeux à deux"],
+    "tags": ["coopération", "immersion", "tension"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4aSAeIT"
+    }
+  },
+
+  {
+    "slug": "jaipur",
+    "name": "Jaipur",
+    "image": "/images/jaipur.jpg",
+    "short_presentation": "Un classique du jeu à deux, rapide et malin.",
+    "description": "Jaipur est un duel de commerce effréné où deux marchands s'affrontent pour devenir le fournisseur officiel du Maharaja. À votre tour, vous devez choisir : prendre des cartes (une ressource précise, plusieurs via un troc, ou tous les chameaux) ou vendre vos marchandises pour récupérer des jetons de points. Plus vous vendez vite, plus les points sont élevés, mais vendre de grosses quantités d'un coup rapporte des bonus massifs.",
+    "review": {
+      "summary": "C'est le roi incontesté du jeu à deux, rapide et nerveux. Tout repose sur le timing : faut-il vendre ses diamants tout de suite pour sécuriser les gros points, ou attendre un tour de plus pour choper le bonus de vente, au risque que l'adversaire vide le marché avant ? La gestion des chameaux ajoute une couche tactique géniale pour contrôler le renouvellement des cartes. C'est fluide, coloré et on enchaîne les revanches sans s'en rendre compte.",
+      "pos": [
+        "Règles simples",
+        "Très fluide",
+        "Parties rapides"
+      ],
+      "neg": [
+        "Peut devenir répétitif",
+        "Hasard présent"
+      ]
+    },
+    "for_who": [
+      "Couples",
+      "Débutants",
+      "Amateurs de jeux rapides"
+    ],
+    "not_for_who": [
+      "Joueurs experts cherchant profondeur extrême"
+    ],
+    "ideal_contexts": [
+      "Pause jeu",
+      "Soirée à deux"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 30,
+    "age": 10,
+    "categories": ["Jeux à deux", "Cartes"],
+    "tags": ["rapide", "commerce", "accessible"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4097Fkb"
+    }
+  },
+
+  {
+    "slug": "mr-jack",
+    "name": "Mr Jack",
+    "image": "/images/mr-jack.jpg",
+    "short_presentation": "Un duel asymétrique dans les rues de Londres.",
+    "description": "Mr. Jack est un jeu d'enquête asymétrique où un joueur incarne l'enquêteur et l'autre l'infâme Jack l'Éventreur, caché parmi les huit personnages du plateau. À chaque tour, les joueurs déplacent les personnages pour les isoler ou les regrouper. À la fin du tour, Jack doit dire s'il est dans l'ombre ou dans la lumière (adjacent à un réverbère ou à un autre personnage), ce qui permet à l'enquêteur d'éliminer des suspects par déduction jusqu'à démasquer le coupable... ou que Jack ne s'échappe de Londres.",
+    "review": {
+      "summary": "C'est un pur duel de neurones, tendu et brillant. Le côté asymétrique est parfaitement dosé : Jack joue la montre et la confusion, tandis que l'enquêteur tente de resserrer l'étau. Chaque mouvement est un dilemme, car utiliser un pouvoir pour soi, c'est aussi le priver à l'adversaire. C'est un classique indémodable qui récompense autant la déduction logique que le bluff pur.",
+      "pos": [
+        "Jeu asymétrique passionnant",
+        "Très stratégique",
+        "Ambiance forte"
+      ],
+      "neg": [
+        "Peut être exigeant",
+        "Durée plus longue"
+      ]
+    },
+    "for_who": [
+      "Amateurs de stratégie",
+      "Fans de jeux asymétriques"
+    ],
+    "not_for_who": [
+      "Joueurs cherchant légèreté"
+    ],
+    "ideal_contexts": [
+      "Session stratégique",
+      "Soirée à deux"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 45,
+    "age": 9,
+    "categories": ["Jeux à deux", "Stratégie"],
+    "tags": ["asymétrique", "déduction", "tactique"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4l8mbCg"
+    }
+  },
+
+  {
+    "slug": "agent-avenue",
+    "name": "Agent Avenue",
+    "image": "/images/agent-avenue.jpg",
+    "short_presentation": "Un jeu d’affrontement tactique rapide et nerveux.",
+    "description": "Agent Avenue est un jeu de duel (2 joueurs) tactique et asymétrique où l'on s'affronte pour le contrôle d'une rue d'espions. Le moteur du jeu repose sur le célèbre mécanisme du Je coupe, tu choisis : à chaque tour, un joueur propose deux lots de cartes, une face visible et l'autre face cachée. L'autre joueur choisit la carte qu'il veut. Le but est de rattraper l'autre agent tout en faisant attention à ne pas se faire rattraper.",
+    "review": {
+      "summary": "C'est un petit format redoutable qui mise tout sur le dilemme psychologique. On passe son temps à essayer de deviner ce que l'autre veut absolument pour lui proposer un choix poison : un lot avec ce qu'il aimerait en face visible mais en face cachée quelque chose qui vous arrange encore plus. C'est rapide, très interactif et particulièrement satisfaisant quand on réussit à faire prendre à l'adversaire la carte qui va en fait l'encombrer. Un excellent jeu de mind game de poche. Je vous le recommande vivement.",
+      "pos": [
+        "Parties dynamiques",
+        "Bonne tension",
+        "Facile à apprendre"
+      ],
+      "neg": [
+        "Uniquement à deux",
+        "Profondeur modérée"
+      ]
+    },
+    "for_who": [
+      "Couples",
+      "Amateurs de duels rapides"
+    ],
+    "not_for_who": [
+      "Grandes tablées"
+    ],
+    "ideal_contexts": [
+      "Soirée rapide",
+      "Affrontement stratégique"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 20,
+    "age": 8,
+    "categories": ["Jeux à deux", "Stratégie"],
+    "tags": ["rapide", "affrontement", "tactique"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4u90bvb"
+    }
+  },
+
+  {
+    "slug": "district-noir",
+    "name": "District Noir",
+    "image": "/images/district-noir.jpg",
+    "short_presentation": "Un duel de cartes rapide et malin dans un univers sombre.",
+    "description": "District Noir est un jeu de cartes pour deux joueurs dans lequel chacun tente de contrôler les quartiers d'une ville plongée dans une ambiance de film noir. À chaque tour, les joueurs posent une carte face visible ou face cachée dans la rue, ou récupèrent toute la rangée de cartes accumulées. L'objectif est de collecter les meilleures combinaisons pour obtenir le plus de points possible en fin de partie. Les décisions sont rapides mais souvent tendues : faut-il continuer à poser des cartes au risque d'offrir un gros lot à l'adversaire, ou récupérer les cartes maintenant ?",
+    "review": {
+      "summary": "District Noir est un excellent jeu à deux, rapide et très malin. Le cœur du jeu repose sur un dilemme constant : pousser la prise de risque ou récupérer les cartes avant l'adversaire. Les parties sont courtes mais pleines de tension et donnent souvent envie d'enchaîner une revanche. Sa simplicité de règles cache une vraie finesse tactique.",
+      "pos": [
+        "Très bon jeu à deux",
+        "Règles simples mais décisions intéressantes",
+        "Parties rapides et tendues"
+      ],
+      "neg": [
+        "Uniquement pour deux joueurs",
+        "Peut sembler répétitif sur de très longues sessions"
+      ]
+    },
+    "for_who": [
+      "Couples",
+      "Amateurs de duels rapides",
+      "Joueurs occasionnels"
+    ],
+    "not_for_who": [
+      "Groupes de joueurs",
+      "Amateurs de jeux longs"
+    ],
+    "ideal_contexts": [
+      "Pause rapide",
+      "Soirée à deux",
+      "Avant un gros jeu"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 15,
+    "age": 10,
+    "categories": ["Cartes", "Duel", "Jeux à deux"],
+    "tags": ["rapide", "tactique", "duel"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4rdv0w6"
+    }
+  },
+
+  {
+    "slug": "sobek",
+    "name": "Sobek",
+    "image": "/images/sobek.jpg",
+    "short_presentation": "Un jeu de collection et de tactique dans un marché égyptien.",
+    "description": "Dans Sobek, les joueurs incarnent des marchands cherchant à accumuler les marchandises les plus précieuses dans un marché égyptien. À chaque tour, ils récupèrent des tuiles sur le plateau central afin de constituer des collections d'objets identiques. Certaines actions permettent également d'obtenir des bonus ou d'embêter l'adversaire. Mais attention : prendre des raccourcis peut générer de la corruption, qui fera perdre des points en fin de partie.",
+    "review": {
+      "summary": "Sobek est un duel élégant et stratégique. Le système de collecte de marchandises est simple à comprendre mais offre de nombreux choix tactiques. La gestion de la corruption ajoute une couche intéressante de prise de risque. C'est un jeu accessible mais suffisamment profond pour plaire aux joueurs plus expérimentés.",
+      "pos": [
+        "Bon niveau de stratégie",
+        "Très bon jeu à deux",
+        "Matériel et thème immersifs"
+      ],
+      "neg": [
+        "Demande quelques parties pour bien maîtriser les stratégies",
+        "Peut provoquer un peu d'analyse chez certains joueurs"
+      ]
+    },
+    "for_who": [
+      "Joueurs à deux",
+      "Amateurs de jeux tactiques",
+      "Joueurs intermédiaires"
+    ],
+    "not_for_who": [
+      "Familles cherchant un jeu très simple",
+      "Groupes nombreux"
+    ],
+    "ideal_contexts": [
+      "Soirée jeu à deux",
+      "Parties stratégiques courtes"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 30,
+    "age": 10,
+    "categories": ["Stratégie", "Duel", "Jeux à deux"],
+    "tags": ["collection", "tactique", "gestion"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4d09iYT"
+    }
+  },
+
+  {
+    "slug": "prey-another-day",
+    "name": "Prey Another Day",
+    "image": "/images/prey-another-day.jpg",
+    "short_presentation": "Un jeu de bluff et de déduction avec des animaux affamés.",
+    "description": "Prey Another Day est un jeu de bluff et de déduction dans lequel chaque joueur possède secrètement quatre animaux différents. À chaque manche, les joueurs choisissent un animal à envoyer à la chasse. Selon les combinaisons révélées, certains animaux capturent leurs proies tandis que d'autres doivent fuir. Les joueurs doivent essayer de protéger leurs animaux tout en devinant ceux des autres afin d'éliminer progressivement leurs adversaires.",
+    "review": {
+      "summary": "Prey Another Day est un jeu rapide et plein de tension où le bluff et la lecture des adversaires sont essentiels. Les règles sont faciles à comprendre mais les interactions entre joueurs rendent chaque manche imprévisible. Il fonctionne particulièrement bien avec des joueurs qui aiment se regarder dans les yeux et tenter de deviner les intentions des autres.",
+      "pos": [
+        "Beaucoup d'interaction",
+        "Excellent jeu de bluff",
+        "Parties rapides"
+      ],
+      "neg": [
+        "Moins intéressant avec des joueurs très discrets",
+        "Peut sembler chaotique pour certains"
+      ]
+    },
+    "for_who": [
+      "Groupes d'amis",
+      "Amateurs de bluff",
+      "Joueurs occasionnels"
+    ],
+    "not_for_who": [
+      "Joueurs cherchant un jeu stratégique profond",
+      "Joueurs qui n'aiment pas le bluff"
+    ],
+    "ideal_contexts": [
+      "Soirée jeux",
+      "Jeu d'ambiance",
+      "Début de soirée"
+    ],
+    "min_players": 2,
+    "max_players": 5,
+    "duration": 15,
+    "age": 8,
+    "categories": ["Bluff", "Ambiance"],
+    "tags": ["bluff", "interaction", "rapide"],
+    "buy_links": {
+      "amazon": "https://amzn.to/3N4yVx6"
+    }
+  },
+
+  {
+    "slug": "loup-garou-pour-une-nuit",
+    "name": "Le Loup-Garou pour une Nuit",
+    "image": "/images/loup-garou-nuit.jpg",
+    "short_presentation": "Un jeu de rôles cachés rapide et intense en une seule nuit.",
+    "description": "Le Loup-Garou pour une Nuit est une version rapide et dynamique du célèbre jeu des loups-garous. Chaque joueur reçoit secrètement un rôle, puis différentes actions nocturnes modifient parfois ces rôles sans que les joueurs ne s'en rendent compte. Après cette courte nuit, les joueurs discutent et tentent de découvrir qui est le loup-garou. Contrairement au jeu classique, la partie ne dure qu'un seul tour avant un vote final.",
+    "review": {
+      "summary": "Cette version compacte du célèbre jeu de rôles cachés fonctionne très bien pour des parties rapides. L'absence d'élimination et la durée très courte rendent le jeu dynamique et accessible. Les discussions peuvent devenir très animées et hilarantes, surtout lorsque les rôles ont changé pendant la nuit.",
+      "pos": [
+        "Parties très rapides",
+        "Beaucoup d'interactions",
+        "Aucune élimination de joueurs"
+      ],
+      "neg": [
+        "Demande un groupe impliqué",
+        "Peut être confus lors des premières parties"
+      ]
+    },
+    "for_who": [
+      "Groupes d'amis",
+      "Amateurs de jeux de bluff",
+      "Soirées animées"
+    ],
+    "not_for_who": [
+      "Petits groupes",
+      "Joueurs très discrets"
+    ],
+    "ideal_contexts": [
+      "Soirée jeux",
+      "Jeu d'ambiance",
+      "Grand groupe"
+    ],
+    "min_players": 3,
+    "max_players": 10,
+    "duration": 10,
+    "age": 8,
+    "categories": ["Ambiance", "Rôles cachés"],
+    "tags": ["bluff", "discussion", "rapide"],
+    "buy_links": {
+      "amazon": "https://amzn.to/3P06mS8"
+    }
+  },
+
+  {
+    "slug": "dracula-vs-van-helsing",
+    "name": "Dracula vs Van Helsing",
+    "image": "/images/dracula-vs-van-helsing.jpg",
+    "short_presentation": "Un duel de cartes stratégique inspiré du célèbre affrontement entre Dracula et Van Helsing.",
+    "description": "Dracula vs Van Helsing est un jeu de duel asymétrique dans lequel un joueur incarne le célèbre vampire tandis que l'autre joue le chasseur Van Helsing. Les joueurs utilisent des cartes pour attaquer, se défendre ou manipuler les différentes zones du plateau. Dracula tente de survivre jusqu'à la fin de la partie ou d'épuiser son adversaire, tandis que Van Helsing doit réussir à le vaincre avant qu'il ne soit trop tard.",
+    "review": {
+      "summary": "Dracula vs Van Helsing est un duel très tendu qui se distingue par son thème fort et ses décisions constantes. Chaque carte jouée peut faire basculer la partie et les deux camps offrent des sensations différentes. Les parties sont rapides mais souvent très serrées, ce qui donne envie de rejouer immédiatement.",
+      "pos": [
+        "Excellent duel",
+        "Thème immersif",
+        "Parties rapides et tendues"
+      ],
+      "neg": [
+        "Uniquement pour deux joueurs",
+        "Peut devenir répétitif sur le long terme"
+      ]
+    },
+    "for_who": [
+      "Joueurs à deux",
+      "Amateurs de duels tactiques",
+      "Fans de thèmes gothiques"
+    ],
+    "not_for_who": [
+      "Groupes de joueurs",
+      "Amateurs de jeux très longs"
+    ],
+    "ideal_contexts": [
+      "Soirée à deux",
+      "Petite pause jeu"
+    ],
+    "min_players": 2,
+    "max_players": 2,
+    "duration": 30,
+    "age": 10,
+    "categories": ["Cartes", "Duel", "Jeux à deux"],
+    "tags": ["asymétrique", "tactique", "duel"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4b4BjMq"
+    }
+  },
+
+  {
+    "slug": "emblemes",
+    "name": "Emblèmes",
+    "image": "/images/emblemes.jpg",
+    "short_presentation": "Un jeu d'association d'idées original où chaque symbole peut avoir plusieurs sens.",
+    "description": "Emblèmes est un jeu d'association d'idées dans lequel les joueurs doivent relier des concepts à des symboles abstraits. Chaque joueur interprète les emblèmes à sa manière et doit convaincre les autres joueurs de la pertinence de ses associations. Le jeu repose sur l'imagination, la créativité et la capacité à comprendre la logique des autres participants.",
+    "review": {
+      "summary": "Emblèmes propose une expérience originale qui repose sur la créativité des joueurs. Les discussions autour des symboles donnent souvent lieu à des interprétations inattendues et amusantes. C'est un jeu parfait pour les groupes qui aiment échanger et débattre autour d'idées parfois très subjectives.",
+      "pos": [
+        "Très original",
+        "Favorise la créativité",
+        "Bon jeu d'ambiance"
+      ],
+      "neg": [
+        "Peut déstabiliser les joueurs très rationnels",
+        "Dépend beaucoup du groupe"
+      ]
+    },
+    "for_who": [
+      "Groupes d'amis",
+      "Amateurs de jeux créatifs",
+      "Joueurs occasionnels"
+    ],
+    "not_for_who": [
+      "Joueurs très compétitifs",
+      "Personnes cherchant un jeu stratégique"
+    ],
+    "ideal_contexts": [
+      "Soirée entre amis",
+      "Jeu d'ambiance"
+    ],
+    "min_players": 3,
+    "max_players": 6,
+    "duration": 25,
+    "age": 10,
+    "categories": ["Ambiance", "Créatif"],
+    "tags": ["imagination", "association", "discussion"],
+    "buy_links": {
+      "amazon": "https://amzn.to/47cMr8O",
+      "fnac": "blabla"
+    }
+  },
+
+  {
+    "slug": "kosmopolit",
+    "name": "Kosmopolit",
+    "image": "/images/kosmopolit.jpg",
+    "short_presentation": "Un jeu coopératif délirant où l'on doit servir des plats dans toutes les langues.",
+    "description": "Dans Kosmopolit, les joueurs travaillent ensemble dans un restaurant international. Le problème ? Les recettes sont écrites dans différentes langues et alphabets du monde entier. Les joueurs doivent coopérer pour identifier les bons ingrédients et servir les plats aux clients avant qu'ils ne perdent patience.",
+    "review": {
+      "summary": "Kosmopolit est un jeu coopératif extrêmement original qui crée souvent des situations hilarantes. Les joueurs doivent communiquer efficacement pour déchiffrer les recettes et coordonner leurs actions. L'expérience est très immersive et fonctionne particulièrement bien avec des groupes motivés.",
+      "pos": [
+        "Concept très original",
+        "Beaucoup de coopération",
+        "Moments très drôles"
+      ],
+      "neg": [
+        "Peut être stressant",
+        "Demande un groupe impliqué"
+      ]
+    },
+    "for_who": [
+      "Groupes d'amis",
+      "Amateurs de jeux coopératifs",
+      "Joueurs aimant communiquer"
+    ],
+    "not_for_who": [
+      "Joueurs solitaires",
+      "Personnes n'aimant pas la pression du temps"
+    ],
+    "ideal_contexts": [
+      "Soirée jeux",
+      "Jeu coopératif animé"
+    ],
+    "min_players": 4,
+    "max_players": 8,
+    "duration": 15,
+    "age": 10,
+    "categories": ["Coopératif", "Ambiance"],
+    "tags": ["communication", "temps réel", "coopératif"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4ucpQ6i"
+    }
+  },
+
+  {
+    "slug": "5-minutes-dungeon",
+    "name": "5 Minutes Dungeon",
+    "image": "/images/5-minutes-dungeon.jpg",
+    "short_presentation": "Un jeu coopératif frénétique en temps réel où chaque partie dure 5 minutes.",
+    "description": "5 Minutes Dungeon est un jeu coopératif en temps réel où les joueurs doivent traverser un donjon rempli de monstres et d'obstacles. Chacun incarne un héros possédant des capacités spécifiques et doit jouer ses cartes le plus vite possible pour vaincre les ennemis. La communication et la rapidité sont essentielles car le temps est limité à cinq minutes pour chaque boss.",
+    "review": {
+      "summary": "5 Minutes Dungeon est une expérience extrêmement dynamique. Les joueurs doivent agir vite, coopérer et gérer la pression du chronomètre. L'ambiance autour de la table devient rapidement très intense et bruyante, ce qui rend le jeu particulièrement fun avec un groupe énergique.",
+      "pos": [
+        "Très dynamique",
+        "Excellent coopératif",
+        "Parties courtes et intenses"
+      ],
+      "neg": [
+        "Peut être stressant",
+        "Peu adapté aux joueurs calmes"
+      ]
+    },
+    "for_who": [
+      "Groupes d'amis",
+      "Amateurs de jeux coopératifs",
+      "Joueurs aimant l'action"
+    ],
+    "not_for_who": [
+      "Joueurs cherchant un jeu calme",
+      "Amateurs de stratégie lente"
+    ],
+    "ideal_contexts": [
+      "Soirée jeux",
+      "Jeu d'ambiance énergique"
+    ],
+    "min_players": 2,
+    "max_players": 5,
+    "duration": 5,
+    "age": 8,
+    "categories": ["Coopératif", "Temps réel"],
+    "tags": ["rapide", "coopératif", "temps réel"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4ugjh2E"
+    }
+  },
+
+  {
+    "slug": "hibachi-fired-up",
+    "name": "Hibachi: Fired Up!",
+    "image": "/images/hibachi.jpg",
+    "short_presentation": "Un jeu d'adresse et d'enchères où l'on lance des jetons pour acheter des ingrédients.",
+    "description": "Hibachi: Fired Up! est un jeu original mêlant adresse et gestion dans lequel les joueurs incarnent des chefs cuisiniers qui participent à une compétition culinaire. Pour acheter les ingrédients nécessaires à leurs recettes, les joueurs doivent lancer leurs jetons sur le plateau afin de miser sur différents stands du marché. Une fois les ingrédients récupérés, ils peuvent cuisiner leurs plats et marquer des points. Le jeu mélange habilement stratégie, habileté et interactions constantes entre les joueurs.",
+    "review": {
+      "summary": "Hibachi: Fired Up! est un jeu extrêmement fun qui sort des mécaniques classiques. Le mélange entre adresse et stratégie fonctionne très bien et provoque souvent des moments hilarants autour de la table. Les parties sont dynamiques et très interactives, même si l'adresse peut parfois prendre le dessus sur la planification.",
+      "pos": [
+        "Concept très original",
+        "Beaucoup d'interactions",
+        "Ambiance fun autour de la table"
+      ],
+      "neg": [
+        "Demande un peu de place sur la table",
+        "L'adresse peut frustrer certains joueurs"
+      ]
+    },
+    "for_who": [
+      "Groupes d'amis",
+      "Amateurs de jeux originaux",
+      "Joueurs aimant l'interaction"
+    ],
+    "not_for_who": [
+      "Joueurs cherchant un jeu très stratégique",
+      "Personnes n'aimant pas les jeux d'adresse"
+    ],
+    "ideal_contexts": [
+      "Soirée jeux entre amis",
+      "Moment convivial et animé"
+    ],
+    "min_players": 2,
+    "max_players": 4,
+    "duration": 45,
+    "age": 10,
+    "categories": ["Adresse", "Ambiance","Jeux à deux"],
+    "tags": ["adresse", "enchères", "interaction"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4cvJyUg"
+    }
+  },
+
+  {
+    "slug": "kingdomino",
+    "name": "Kingdomino",
+    "image": "/images/kingdomino.jpg",
+    "short_presentation": "Un jeu de placement de tuiles malin et accessible dans l’univers de Domino.",
+    "description": "Kingdomino est un jeu de placement de tuiles dans lequel chaque joueur construit son royaume en sélectionnant et en plaçant des dominos représentant différents types de terrains : forêts, champs, lacs ou montagnes. Le but est de former les domaines les plus vastes possibles tout en récupérant des couronnes qui multiplieront les points de ces zones. Le choix des dominos est stratégique, car l’ordre de sélection pour le tour suivant dépend de la valeur des tuiles choisies. Les joueurs doivent donc équilibrer entre obtenir les meilleures pièces et garder une bonne position dans l’ordre du tour.",
+    "review": {
+      "summary": "Kingdomino est un excellent jeu familial qui réussit à être à la fois simple à comprendre et intéressant à jouer. Les règles s'expliquent en quelques minutes, mais les décisions restent pertinentes tout au long de la partie. Le système de choix des dominos est particulièrement malin, car il crée un vrai dilemme entre prendre une bonne tuile ou jouer avant les autres au tour suivant. C'est un jeu très accessible qui fonctionne parfaitement avec des joueurs occasionnels tout en restant satisfaisant pour des joueurs plus habitués.",
+      "pos": [
+        "Règles très simples à apprendre",
+        "Parties rapides et fluides",
+        "Choix tactiques intéressants"
+      ],
+      "neg": [
+        "Peut sembler trop simple pour certains joueurs experts",
+        "Un peu dépendant du tirage des dominos"
+      ]
+    },
+    "for_who": [
+      "Familles",
+      "Joueurs occasionnels",
+      "Enfants dès 8 ans"
+    ],
+    "not_for_who": [
+      "Joueurs experts cherchant un jeu complexe",
+      "Amateurs de jeux très longs"
+    ],
+    "ideal_contexts": [
+      "Jeu familial",
+      "Début de soirée jeux",
+      "Partie rapide"
+    ],
+    "min_players": 2,
+    "max_players": 4,
+    "duration": 20,
+    "age": 8,
+    "categories": ["Placement de tuiles", "Familial"],
+    "tags": ["rapide", "accessible", "tactique"],
+    "buy_links": {
+      "amazon": "https://amzn.to/4l8aL1g"
+    }
+  }
+
+]

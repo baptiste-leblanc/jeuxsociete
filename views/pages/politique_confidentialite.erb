@@ -1,0 +1,76 @@
+<h1>Politique de confidentialité</h1>
+
+<div class="legal-container">
+  <h2>1. Données collectées</h2>
+  <p>
+  Ce site peut collecter les données suivantes :
+  </p>
+  <ul>
+    <li>Données de navigation (via cookies)</li>
+    <li>Données fournies volontairement via formulaire (le cas échéant)</li>
+  </ul>
+
+  <h2>2. Finalité de la collecte</h2>
+  <p>
+  Les données collectées servent à :
+  </p>
+  <ul>
+    <li>Améliorer l’expérience utilisateur</li>
+    <li>Mesurer l’audience du site</li>
+    <li>Répondre aux demandes envoyées via formulaire</li>
+  </ul>
+
+  <h2>3. Base légale</h2>
+  <p>
+  Le traitement des données repose sur :
+  </p>
+  <ul>
+    <li>Le consentement de l’utilisateur (cookies)</li>
+    <li>L’intérêt légitime (mesure d’audience)</li>
+  </ul>
+
+  <h2>4. Durée de conservation</h2>
+  <p>
+  Les données sont conservées pour une durée maximale de 13 mois
+  concernant les cookies d’analyse.
+  </p>
+
+  <h2>5. Droits des utilisateurs</h2>
+  <p>
+  Conformément au RGPD, vous disposez des droits suivants :
+  </p>
+  <ul>
+    <li>Droit d’accès</li>
+    <li>Droit de rectification</li>
+    <li>Droit de suppression</li>
+    <li>Droit d’opposition</li>
+  </ul>
+
+  <p>
+  Pour exercer ces droits, contactez : [email@email.com]
+  </p>
+
+  <h2>6. Sécurité</h2>
+  <p>
+  Des mesures techniques et organisationnelles sont mises en place
+  afin d’assurer la sécurité des données personnelles.
+  </p>
+</div>
+
+<script>
+  const toggleBtn = document.getElementById('theme-toggle');
+  const htmlElement = document.documentElement;
+
+  const currentTheme = localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+  htmlElement.setAttribute('data-theme', currentTheme);
+
+  toggleBtn.addEventListener('click', () => {
+    let theme = htmlElement.getAttribute('data-theme');
+    let newTheme = theme === 'dark' ? 'light' : 'dark';
+
+    htmlElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  });
+</script>

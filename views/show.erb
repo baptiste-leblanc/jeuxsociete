@@ -1,0 +1,101 @@
+<div class="game-show">
+
+  <header class="game-header">
+    <div class="title-row">
+      <a href="javascript:history.back()" class="btn-action">
+        <span class="icon">←</span>
+      </a>
+      <h1><%= @game[:name] %></h1>
+    </div>
+
+    <p class="subtitle"><%= @game[:short_presentation] %></p>
+
+    <div class="meta">
+      <span>👥 <%= @game[:min_players] %>–<%= @game[:max_players] %> j.</span>
+      <span>⏱ <%= @game[:duration] %> min</span>
+      <span>🎂 <%= @game[:age] %>+</span>
+    </div>
+  </header>
+
+  <section class="card presentation">
+    <div class="presentation-image">
+      <img src="<%= @game[:image] %>" alt="Boîte de <%= @game[:name] %>" class="game-cover" />
+    </div>
+    <div class="presentation-content">
+      <h2>Le concept du jeu</h2>
+      <p><%= @game[:description] %></p>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Notre avis de passionnés</h2>
+    <p class="review-summary">" <%= @game[:review][:summary] %> "</p>
+
+    <div class="pos-neg">
+      <div class="pos">
+        <h3>✅ Les points forts</h3>
+        <ul>
+          <% @game[:review][:pos].each do |positive| %>
+            <li><%= positive %></li>
+          <% end %>
+        </ul>
+      </div>
+      <div class="neg">
+        <h3>❌ Les points faibles</h3>
+        <ul>
+          <% @game[:review][:neg].each do |negative| %>
+            <li><%= negative %></li>
+          <% end %>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Idéal pour...</h2>
+    <div class="contexts">
+      <% @game[:ideal_contexts].each do |context| %>
+        <span class="context"><%= context %></span>
+      <% end %>
+    </div>
+    <div class="tags" style="margin-top: 20px;">
+      <% @game[:tags].each do |tag| %>
+        <span class="tag">#<%= tag %></span>
+      <% end %>
+    </div>
+  </section>
+
+  <section class="card buy">
+    <h2>Ajouter à votre ludothèque</h2>
+
+    <% if @game[:buy_links][:amazon] %>
+      <a href="<%= @game[:buy_links][:amazon] %>" target="_blank" rel="noopener sponsored" class="amazon-btn">
+        Voir sur Amazon
+      </a>
+    <% end %>
+
+    <% if @game[:buy_links][:fnac] %>
+      <a href="<%= @game[:buy_links][:fnac] %>" target="_blank" rel="noopener sponsored" class="fnac-btn">
+        Voir sur Fnac
+      </a>
+    <% end %>
+
+    <p class="amazon-disclaimer">Liens affiliés : nous soutenons le site sans surcoût pour vous.</p>
+
+  </section>
+
+</div>
+
+<script>
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "<%= @game[:name] %>",
+  "image": "<%= @game[:image] %>",
+  "description": "<%= @description %>",
+  "brand": {
+    "@type": "Brand",
+    "name": "Jeux de société"
+  }
+}
+</script>

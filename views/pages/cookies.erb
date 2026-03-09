@@ -1,0 +1,47 @@
+<h1>Politique de gestion des cookies</h1>
+
+<div class="legal-container">
+  <h2>Qu’est-ce qu’un cookie ?</h2>
+  <p>
+  Un cookie est un petit fichier texte déposé sur votre appareil lors de la visite d’un site web.
+  </p>
+
+  <h2>Cookies utilisés</h2>
+  <ul>
+    <li>Cookies nécessaires au fonctionnement du site</li>
+    <li>Cookies de mesure d’audience (ex : Google Analytics si utilisé)</li>
+  </ul>
+
+  <h2>Consentement</h2>
+  <p>
+  Lors de votre première visite, un bandeau vous permet d’accepter ou de refuser
+  l’utilisation des cookies non essentiels.
+  </p>
+
+  <h2>Gestion des cookies</h2>
+  <p>
+  Vous pouvez à tout moment modifier vos préférences via :
+  </p>
+  <ul>
+    <li>Les paramètres de votre navigateur</li>
+    <li>Le bandeau de gestion des cookies</li>
+  </ul>
+</div>
+
+<script>
+  const toggleBtn = document.getElementById('theme-toggle');
+  const htmlElement = document.documentElement;
+
+  const currentTheme = localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+  htmlElement.setAttribute('data-theme', currentTheme);
+
+  toggleBtn.addEventListener('click', () => {
+    let theme = htmlElement.getAttribute('data-theme');
+    let newTheme = theme === 'dark' ? 'light' : 'dark';
+
+    htmlElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  });
+</script>

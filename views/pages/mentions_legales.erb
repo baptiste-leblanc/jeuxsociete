@@ -1,0 +1,43 @@
+<div class="legal-container">
+<a href="javascript:history.back()" class="btn-back btn-action">
+  <span class="icon">←</span> Retour
+</a>
+  <h1>Transparence & Affiliation</h1>
+
+  <p>
+    Comme dans une bonne règle de jeu, la transparence est la clé. Certains liens sur <strong>On joue à quoi ce soir ?</strong> sont affiliés. Si vous passez commande via ces liens, nous recevons une petite pièce d'or (commission) sans que votre bourse n'en souffre.
+  </p>
+
+  <h2>Pourquoi ce système de points ?</h2>
+  <p>Ce site est une aventure indépendante. Ces commissions nous permettent de :</p>
+  <ul>
+    <li>Acquérir et tester les nouveautés du salon d'Essen ou de Cannes.</li>
+    <li>Maintenir nos serveurs à l'abri des ouragans (façon Galérapagos).</li>
+    <li>Garantir un contenu de qualité, sans pubs intrusives.</li>
+  </ul>
+
+  <h2>Fair-play éditorial</h2>
+  <p>
+    Notre boussole reste votre plaisir de jeu. Nos avis sont 100% sincères : si un jeu est un "flop", on vous le dira, peu importe l'affiliation.
+  </p>
+
+  <p class="heart-note">Merci de soutenir l'aventure ! ❤️</p>
+</div>
+
+<script>
+  const toggleBtn = document.getElementById('theme-toggle');
+  const htmlElement = document.documentElement;
+
+  const currentTheme = localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+  htmlElement.setAttribute('data-theme', currentTheme);
+
+  toggleBtn.addEventListener('click', () => {
+    let theme = htmlElement.getAttribute('data-theme');
+    let newTheme = theme === 'dark' ? 'light' : 'dark';
+
+    htmlElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  });
+</script>

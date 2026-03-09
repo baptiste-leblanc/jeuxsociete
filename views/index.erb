@@ -1,0 +1,99 @@
+<section class="hero">
+  <h1>Le guide pour trouver votre prochaine pépite ludique</h1>
+  <p class="subtitle">
+    Ce site a pour but que vous trouviez le jeu le plus adéquat à votre situation et votre envie du moment.<br>
+    Pour chaque jeu, vous trouverez : le concept du jeu, notre avis, les points forts et les points faibles du jeu selon nous ainsi qu'un lien Amazon afin d'y jouer à la maison.
+  </p>
+
+  <form method="get" action="/" class="search-form">
+    <input
+      type="text"
+      name="query"
+      placeholder="Nom du jeu (Skyjo, Azul...)"
+      value="<%= params[:query] %>"
+    >
+
+    <select name="category">
+      <option value="">Toutes les catégories</option>
+      <% @categories.each do |category| %>
+        <option value="<%= category %>" <%= "selected" if params[:category] == category %>>
+          <%= category %>
+        </option>
+      <% end %>
+    </select>
+
+    <button type="submit">Trouver un jeu</button>
+  </form>
+</section>
+
+<hr>
+
+<ul class="games-list">
+  <% @games.each do |game| %>
+    <li
+      data-name="<%= game[:name].downcase %>"
+      data-categories="<%= game[:categories].join(',').downcase %>"
+    >
+      <a href="/games/<%= game[:slug] %>">
+        <div class="game-image">
+          <img
+            src="<%= game[:image] %>"
+            alt="Boîte du jeu <%= game[:name] %>"
+          >
+        </div>
+        <span><%= game[:name] %></span>
+      </a>
+    </li>
+  <% end %>
+</ul>
+
+
+<% if @games.empty? %>
+  <p>Aucun jeu trouvé.</p>
+<% end %>
+
+<script>
+
+  const toggleBtn = document.getElementById('theme-toggle');
+  const htmlElement = document.documentElement;
+
+  const currentTheme = localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+  htmlElement.setAttribute('data-theme', currentTheme);
+
+  toggleBtn.addEventListener('click', () => {
+    let theme = htmlElement.getAttribute('data-theme');
+    let newTheme = theme === 'dark' ? 'light' : 'dark';
+
+    htmlElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  });
+
+  const searchInput = document.getElementById('search-input');
+  const categoryFilter = document.getElementById('category-filter');
+  const games = document.querySelectorAll('.games-list li');
+
+  function filterGames() {
+    const searchValue = searchInput.value.toLowerCase();
+    const selectedCategory = categoryFilter.value.toLowerCase();
+
+    games.forEach(game => {
+      const name = game.dataset.name;
+      const categories = game.dataset.categories;
+
+      const matchName = name.includes(searchValue);
+      const matchCategory = !selectedCategory || categories.includes(selectedCategory);
+
+      if (matchName && matchCategory) {
+        game.style.display = "block";
+      } else {
+        game.style.display = "none";
+      }
+    });
+  }
+
+  searchInput.addEventListener('input', filterGames);
+  categoryFilter.addEventListener('change', filterGames);
+
+</script>
