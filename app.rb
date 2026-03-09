@@ -1,15 +1,17 @@
 require "sinatra"
 require "json"
 
+set :bind, "0.0.0.0"
+set :port, ENV["PORT"] || 4567
+
 def load_games
-  # __dir__ récupère le chemin du dossier contenant app.rb
   file_path = File.join(__dir__, "data", "games.json")
 
   if File.exist?(file_path)
     JSON.parse(File.read(file_path), symbolize_names: true)
   else
     puts "ERREUR : Fichier non trouvé ici : #{file_path}"
-    [] # Retourne un tableau vide pour éviter de faire planter le reste du code
+    []
   end
 end
 
