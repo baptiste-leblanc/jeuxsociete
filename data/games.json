@@ -2,7 +2,7 @@
   {
     "slug": "skyjo",
     "name": "Skyjo",
-    "image": "/images/skyjo.jpg",
+    "image": "/images/skyjo1.jpg",
     "short_presentation": "Un jeu de cartes simple, rapide et addictif.",
     "description": "Skyjo est un jeu de cartes familial simple et addictif où le but est d'obtenir le score le plus bas possible en fin de partie. Chaque joueur dispose d'une grille de 12 cartes face cachée et doit, tour après tour, les échanger contre de nouvelles cartes piochées ou récupérées dans la défausse. Le sel du jeu vient de l'incertitude : on remplace des cartes inconnues en espérant tomber sur des valeurs faibles ou négatives, tout en essayant d'aligner trois chiffres identiques dans une colonne pour les éliminer.",
     "review": {
@@ -45,7 +45,7 @@
   {
     "slug": "7-wonders-duel",
     "name": "7 Wonders Duel",
-    "image": "/images/7-wonders-duel.jpg",
+    "image": "/images/7-wonders-duel1.jpg",
     "short_presentation": "Un jeu de civilisation stratégique intense conçu exclusivement pour deux joueurs.",
     "description": "7 Wonders Duel est un jeu de civilisation magistral où deux cités s'affrontent à travers trois âges. Contrairement à beaucoup de jeux de gestion, vous ne piochez pas de cartes : elles sont disposées sur la table selon des structures précises (pyramides, murs), certaines face cachée et d'autres face visible, créant un système de draft ouvert très stratégique. Vous devez bâtir des bâtiments, développer votre science et ériger des Merveilles pour l'emporter.",
     "review": {
@@ -94,7 +94,7 @@
   {
     "slug": "splendor-duel",
     "name": "Splendor Duel",
-    "image": "/images/splendor-duel.jpg",
+    "image": "/images/splendor-duel1.jpg",
     "short_presentation": "La version intense et stratégique de Splendor à deux joueurs.",
     "description": "Splendor Duel est un jeu de stratégie intense pour deux joueurs où vous incarnez des joailliers rivaux en quête de prestige. En puisant des gemmes et des perles rares sur un plateau commun, vous bâtissez un empire de cartes précieuses offrant des bonus, des capacités spéciales comme le vol de jetons, et des points de victoire. La tension est permanente, car la partie peut basculer à tout moment selon trois conditions de victoire : accumuler 20 points au total, 10 points dans une seule couleur ou 10 symboles couronne.",
     "review": {
@@ -136,7 +136,7 @@
   {
     "slug": "the-mind",
     "name": "The Mind",
-    "image": "/images/the-mind.jpg",
+    "image": "/images/the-mind1.jpg",
     "short_presentation": "Un jeu coopératif surprenant basé sur la communication non verbale.",
     "description": "The Mind est une expérience ludique unique et minimaliste où les joueurs doivent coopérer pour poser des cartes numérotées de 1 à 100 en ordre croissant... sans s'échanger un seul mot ou signe. Pour réussir les différents niveaux, l'équipe ne dispose d'aucun outil, si ce n'est la perception du temps et une forme de connexion intuitive : chaque joueur doit ressentir le moment opportun pour poser sa carte selon sa valeur.",
     "review": {
@@ -180,7 +180,7 @@
   {
     "slug": "6-qui-prend",
     "name": "6 qui prend !",
-    "image": "/images/6-qui-prend.jpg",
+    "image": "/images/6-qui-prend1.jpg",
     "short_presentation": "Un jeu de cartes malin et cruel sous ses airs innocents.",
     "description": "6 qui prend ! est un grand classique du jeu de cartes où le but est d'accumuler le moins de têtes de bœuf possible. Chaque joueur choisit simultanément une carte de sa main et la révèle ; elles sont ensuite placées sur l'une des quatre rangées de la table selon leur valeur. Le piège ? Celui qui doit poser la sixième carte d'une rangée doit ramasser les cinq précédentes, récoltant ainsi tous leurs points de pénalité.",
     "review": {
@@ -223,7 +223,7 @@
   {
     "slug": "traitres-a-bord",
     "name": "Traîtres à bord",
-    "image": "/images/traitres-a-bord.jpg",
+    "image": "/images/traitres-a-bord1.jpg",
     "short_presentation": "Un jeu de bluff et de déduction où personne n’est vraiment digne de confiance.",
     "description": "Traîtres à bord est un jeu de rôles cachés et de déduction sociale où l'équipage d'un navire tente de remplir un coffre au trésor pendant que des mutins cherchent discrètement à saboter l'expédition. Le jeu se déroule en une succession de poses de cartes Butin (pour l'or) ou Action (pour mutiner ou enquêter), le tout saupoudré de discussions animées pour démasquer les menteurs avant que le navire ne sombre dans le chaos.",
     "review": {
@@ -269,7 +269,7 @@
   {
     "slug": "galerapagos",
     "name": "Galérapagos",
-    "image": "/images/galerapagos.jpg",
+    "image": "/images/galerapagos1.jpg",
     "short_presentation": "Un jeu coopératif… jusqu’à ce que la survie pousse à la trahison.",
     "description": "Galérapagos est un jeu de coopération forcée où des naufragés tentent de construire un radeau pour quitter une île avant qu'un ouragan ne les dévaste. Les joueurs doivent s'organiser pour récolter de l'eau, de la nourriture et du bois, mais les ressources viennent vite à manquer. Dès qu'une pénurie survient, la solidarité s'arrête : les naufragés votent pour éliminer l'un d'entre eux, transformant l'aventure en un jeu de survie cruel.",
     "review": {
@@ -315,7 +315,7 @@
   {
     "slug": "symbiose",
     "name": "Symbiose",
-    "image": "/images/symbiose.jpg",
+    "image": "/images/symbiose1.jpg",
     "short_presentation": "Un jeu de cartes tactique et élégant basé sur l’équilibre et l’optimisation.",
     "description": "Symbiose est un jeu de cartes coopératif et évolutif où vous créez votre propre mare en choisissant les insectes, poissons ou encore batraciens qui la composeront. Le cœur du jeu repose sur la pose de cartes aux effets interconnectés : chaque carte jouée influence ses voisins, créant des réactions en chaîne nécessaires pour faire le plus de points possible avant la fin de la partie. ",
     "review": {
@@ -361,7 +361,7 @@
   {
     "slug": "odin",
     "name": "Odin",
-    "image": "/images/odin.jpg",
+    "image": "/images/odin1.jpg",
     "short_presentation": "Un jeu de cartes malin où il faut se débarrasser de ses cartes en combinant intelligemment.",
     "description": "Odin est un jeu de défausse dynamique où le but est de vider sa main le plus vite possible en posant des combinaisons de cartes (chiffres et couleurs). Pour battre la mise précédente, tu dois poser soit une carte plus forte, soit une combinaison de cartes plus nombreuse ; la subtilité étant que tu récupères toujours une des cartes du pli précédent dans ta main, ce qui te permet de préparer tes futurs combos.",
     "review": {
@@ -404,7 +404,7 @@
   {
     "slug": "boreal",
     "name": "Boréal",
-    "image": "/images/boreal.jpg",
+    "image": "/images/boreal1.jpg",
     "short_presentation": "Un duel tactique dans un monde glacé en reconstruction.",
     "description": "Boréal est un jeu de collection et de construction de tableau pour deux joueurs où vous explorez un monde post-humain pour rebâtir une bibliothèque de connaissances. À chaque tour, vous recrutez des cartes depuis une pyramide commune en payant leur coût avec des jetons, puis vous les disposez dans votre propre pyramide de dix cartes : la base doit être solide pour supporter les cartes des étages supérieurs.",
     "review": {
@@ -446,7 +446,7 @@
   {
     "slug": "crack-list",
     "name": "Crack List",
-    "image": "/images/crack-list.jpg",
+    "image": "/images/crack-list1.jpg",
     "short_presentation": "Le jeu où ta culture générale se fracasse contre la mauvaise foi de tes potes.",
     "description": "Crack List est la rencontre improbable mais géniale entre le Petit Bac et le Uno. Le but est de se débarrasser de ses cartes Lettre en trouvant des mots qui commencent par ces lettres et qui correspondent à une catégorie imposée (ex: Choses que l'on trouve dans une cuisine). Comme dans un jeu de défausse classique, des cartes spéciales (Inversion, Stop, Crack List) viennent pimenter la partie pour bloquer vos adversaires.",
     "review": {
@@ -485,7 +485,7 @@
   {
     "slug": "cascadia",
     "name": "Cascadia",
-    "image": "/images/cascadia.jpg",
+    "image": "/images/cascadia1.jpg",
     "short_presentation": "Un jeu zen de construction d’écosystème.",
     "description": "Cascadia est un jeu de puzzle et de placement où vous créez votre propre écosystème sauvage. À chaque tour, vous choisissez un duo indissociable composé d'une tuile Habitat et d'un jeton Animal. Vous devez agrandir vos paysages (forêts, montagnes, rivières) tout en plaçant judicieusement les animaux pour respecter leurs schémas de vie spécifiques (les ours vivent en duos, les saumons en lignes, les buses isolées, etc.).",
     "review": {
@@ -521,7 +521,7 @@
   {
     "slug": "solstis",
     "name": "Solstis",
-    "image": "/images/solstis.jpg",
+    "image": "/images/solstis1.jpg",
     "short_presentation": "Un duel stratégique et poétique au cœur des saisons.",
     "description": "Solstis est un jeu de tuiles pour deux joueurs où vous explorez une montagne mystérieuse pour réunir des esprits de la forêt. Le mécanisme est simple : vous jouez une tuile de votre main pour en capturer une identique au centre de la table. Si les deux tuiles forment un carré, vous gagnez un Esprit bonus. Le but est de créer le plus long chemin continu sur votre plateau personnel tout en collectant des symboles et des bonus de paysage.",
     "review": {
@@ -563,7 +563,7 @@
   {
     "slug": "sky-team",
     "name": "Sky Team",
-    "image": "/images/sky-team.jpg",
+    "image": "/images/sky-team1.jpg",
     "short_presentation": "Un jeu coopératif intense où vous pilotez un avion à deux.",
     "description": "Sky Team est un jeu coopératif exclusivement pour deux joueurs où vous incarnez un pilote et un copilote aux commandes d'un avion de ligne. Votre mission : poser l'appareil sans encombre sur différents aéroports du monde. Le hic ? Vous placez vos dés en silence pour gérer la vitesse, les volets, les trains d'atterrissage, la radio et l'assiette de l'avion. Si l'un de vous rate sa manoeuvre ou que vous percutez un autre avion, c'est le crash immédiat.",
     "review": {
@@ -605,7 +605,7 @@
   {
     "slug": "jaipur",
     "name": "Jaipur",
-    "image": "/images/jaipur.jpg",
+    "image": "/images/jaipur1.jpg",
     "short_presentation": "Un classique du jeu à deux, rapide et malin.",
     "description": "Jaipur est un duel de commerce effréné où deux marchands s'affrontent pour devenir le fournisseur officiel du Maharaja. À votre tour, vous devez choisir : prendre des cartes (une ressource précise, plusieurs via un troc, ou tous les chameaux) ou vendre vos marchandises pour récupérer des jetons de points. Plus vous vendez vite, plus les points sont élevés, mais vendre de grosses quantités d'un coup rapporte des bonus massifs.",
     "review": {
@@ -646,7 +646,7 @@
   {
     "slug": "mr-jack",
     "name": "Mr Jack",
-    "image": "/images/mr-jack.jpg",
+    "image": "/images/mr-jack1.jpg",
     "short_presentation": "Un duel asymétrique dans les rues de Londres.",
     "description": "Mr. Jack est un jeu d'enquête asymétrique où un joueur incarne l'enquêteur et l'autre l'infâme Jack l'Éventreur, caché parmi les huit personnages du plateau. À chaque tour, les joueurs déplacent les personnages pour les isoler ou les regrouper. À la fin du tour, Jack doit dire s'il est dans l'ombre ou dans la lumière (adjacent à un réverbère ou à un autre personnage), ce qui permet à l'enquêteur d'éliminer des suspects par déduction jusqu'à démasquer le coupable... ou que Jack ne s'échappe de Londres.",
     "review": {
@@ -686,7 +686,7 @@
   {
     "slug": "agent-avenue",
     "name": "Agent Avenue",
-    "image": "/images/agent-avenue.jpg",
+    "image": "/images/agent-avenue1.jpg",
     "short_presentation": "Un jeu d’affrontement tactique rapide et nerveux.",
     "description": "Agent Avenue est un jeu de duel (2 joueurs) tactique et asymétrique où l'on s'affronte pour le contrôle d'une rue d'espions. Le moteur du jeu repose sur le célèbre mécanisme du Je coupe, tu choisis : à chaque tour, un joueur propose deux lots de cartes, une face visible et l'autre face cachée. L'autre joueur choisit la carte qu'il veut. Le but est de rattraper l'autre agent tout en faisant attention à ne pas se faire rattraper.",
     "review": {
@@ -726,7 +726,7 @@
   {
     "slug": "district-noir",
     "name": "District Noir",
-    "image": "/images/district-noir.jpg",
+    "image": "/images/district-noir1.jpg",
     "short_presentation": "Un duel de cartes rapide et malin dans un univers sombre.",
     "description": "District Noir est un jeu de cartes pour deux joueurs dans lequel chacun tente de contrôler les quartiers d'une ville plongée dans une ambiance de film noir. À chaque tour, les joueurs posent une carte face visible ou face cachée dans la rue, ou récupèrent toute la rangée de cartes accumulées. L'objectif est de collecter les meilleures combinaisons pour obtenir le plus de points possible en fin de partie. Les décisions sont rapides mais souvent tendues : faut-il continuer à poser des cartes au risque d'offrir un gros lot à l'adversaire, ou récupérer les cartes maintenant ?",
     "review": {
@@ -769,7 +769,7 @@
   {
     "slug": "sobek",
     "name": "Sobek",
-    "image": "/images/sobek.jpg",
+    "image": "/images/sobek1.jpg",
     "short_presentation": "Un jeu de collection et de tactique dans un marché égyptien.",
     "description": "Dans Sobek, les joueurs incarnent des marchands cherchant à accumuler les marchandises les plus précieuses dans un marché égyptien. À chaque tour, ils récupèrent des tuiles sur le plateau central afin de constituer des collections d'objets identiques. Certaines actions permettent également d'obtenir des bonus ou d'embêter l'adversaire. Mais attention : prendre des raccourcis peut générer de la corruption, qui fera perdre des points en fin de partie.",
     "review": {
@@ -811,7 +811,7 @@
   {
     "slug": "prey-another-day",
     "name": "Prey Another Day",
-    "image": "/images/prey-another-day.jpg",
+    "image": "/images/prey-another-day1.jpg",
     "short_presentation": "Un jeu de bluff et de déduction avec des animaux affamés.",
     "description": "Prey Another Day est un jeu de bluff et de déduction dans lequel chaque joueur possède secrètement quatre animaux différents. À chaque manche, les joueurs choisissent un animal à envoyer à la chasse. Selon les combinaisons révélées, certains animaux capturent leurs proies tandis que d'autres doivent fuir. Les joueurs doivent essayer de protéger leurs animaux tout en devinant ceux des autres afin d'éliminer progressivement leurs adversaires.",
     "review": {
@@ -854,7 +854,7 @@
   {
     "slug": "loup-garou-pour-une-nuit",
     "name": "Le Loup-Garou pour une Nuit",
-    "image": "/images/loup-garou-nuit.jpg",
+    "image": "/images/loup-garou-nuit1.jpg",
     "short_presentation": "Un jeu de rôles cachés rapide et intense en une seule nuit.",
     "description": "Le Loup-Garou pour une Nuit est une version rapide et dynamique du célèbre jeu des loups-garous. Chaque joueur reçoit secrètement un rôle, puis différentes actions nocturnes modifient parfois ces rôles sans que les joueurs ne s'en rendent compte. Après cette courte nuit, les joueurs discutent et tentent de découvrir qui est le loup-garou. Contrairement au jeu classique, la partie ne dure qu'un seul tour avant un vote final.",
     "review": {
@@ -897,7 +897,7 @@
   {
     "slug": "dracula-vs-van-helsing",
     "name": "Dracula vs Van Helsing",
-    "image": "/images/dracula-vs-van-helsing.jpg",
+    "image": "/images/dracula-vs-van-helsing1.jpg",
     "short_presentation": "Un duel de cartes stratégique inspiré du célèbre affrontement entre Dracula et Van Helsing.",
     "description": "Dracula vs Van Helsing est un jeu de duel asymétrique dans lequel un joueur incarne le célèbre vampire tandis que l'autre joue le chasseur Van Helsing. Les joueurs utilisent des cartes pour attaquer, se défendre ou manipuler les différentes zones du plateau. Dracula tente de survivre jusqu'à la fin de la partie ou d'épuiser son adversaire, tandis que Van Helsing doit réussir à le vaincre avant qu'il ne soit trop tard.",
     "review": {
@@ -939,7 +939,7 @@
   {
     "slug": "emblemes",
     "name": "Emblèmes",
-    "image": "/images/emblemes.jpg",
+    "image": "/images/emblemes1.jpg",
     "short_presentation": "Un jeu d'association d'idées original où chaque symbole peut avoir plusieurs sens.",
     "description": "Emblèmes est un jeu d'association d'idées dans lequel les joueurs doivent relier des concepts à des symboles abstraits. Chaque joueur interprète les emblèmes à sa manière et doit convaincre les autres joueurs de la pertinence de ses associations. Le jeu repose sur l'imagination, la créativité et la capacité à comprendre la logique des autres participants.",
     "review": {
@@ -982,7 +982,7 @@
   {
     "slug": "kosmopolit",
     "name": "Kosmopolit",
-    "image": "/images/kosmopolit.jpg",
+    "image": "/images/kosmopolit1.jpg",
     "short_presentation": "Un jeu coopératif délirant où l'on doit servir des plats dans toutes les langues.",
     "description": "Dans Kosmopolit, les joueurs travaillent ensemble dans un restaurant international. Le problème ? Les recettes sont écrites dans différentes langues et alphabets du monde entier. Les joueurs doivent coopérer pour identifier les bons ingrédients et servir les plats aux clients avant qu'ils ne perdent patience.",
     "review": {
@@ -1024,7 +1024,7 @@
   {
     "slug": "5-minutes-dungeon",
     "name": "5 Minutes Dungeon",
-    "image": "/images/5-minutes-dungeon.jpg",
+    "image": "/images/5-minutes-dungeon1.jpg",
     "short_presentation": "Un jeu coopératif frénétique en temps réel où chaque partie dure 5 minutes.",
     "description": "5 Minutes Dungeon est un jeu coopératif en temps réel où les joueurs doivent traverser un donjon rempli de monstres et d'obstacles. Chacun incarne un héros possédant des capacités spécifiques et doit jouer ses cartes le plus vite possible pour vaincre les ennemis. La communication et la rapidité sont essentielles car le temps est limité à cinq minutes pour chaque boss.",
     "review": {
@@ -1066,7 +1066,7 @@
   {
     "slug": "hibachi-fired-up",
     "name": "Hibachi: Fired Up!",
-    "image": "/images/hibachi.jpg",
+    "image": "/images/hibachi1.jpg",
     "short_presentation": "Un jeu d'adresse et d'enchères où l'on lance des jetons pour acheter des ingrédients.",
     "description": "Hibachi: Fired Up! est un jeu original mêlant adresse et gestion dans lequel les joueurs incarnent des chefs cuisiniers qui participent à une compétition culinaire. Pour acheter les ingrédients nécessaires à leurs recettes, les joueurs doivent lancer leurs jetons sur le plateau afin de miser sur différents stands du marché. Une fois les ingrédients récupérés, ils peuvent cuisiner leurs plats et marquer des points. Le jeu mélange habilement stratégie, habileté et interactions constantes entre les joueurs.",
     "review": {
@@ -1108,7 +1108,7 @@
   {
     "slug": "kingdomino",
     "name": "Kingdomino",
-    "image": "/images/kingdomino.jpg",
+    "image": "/images/kingdomino1.jpg",
     "short_presentation": "Un jeu de placement de tuiles malin et accessible dans l’univers de Domino.",
     "description": "Kingdomino est un jeu de placement de tuiles dans lequel chaque joueur construit son royaume en sélectionnant et en plaçant des dominos représentant différents types de terrains : forêts, champs, lacs ou montagnes. Le but est de former les domaines les plus vastes possibles tout en récupérant des couronnes qui multiplieront les points de ces zones. Le choix des dominos est stratégique, car l’ordre de sélection pour le tour suivant dépend de la valeur des tuiles choisies. Les joueurs doivent donc équilibrer entre obtenir les meilleures pièces et garder une bonne position dans l’ordre du tour.",
     "review": {
